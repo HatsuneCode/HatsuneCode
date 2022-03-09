@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lianhao Song.
+- ✨ I’m interested in bioinformatics software development.
+- 📫 Email: hatsunecode@gmail.com
