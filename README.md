@@ -10,7 +10,7 @@
 3. <b>Song L#</b>, Zhang S#, Yu S, Ma F, Wang B, Zhang C, Sun J, Mao X and Wei L. Cellular heterogeneity landscape in laryngeal squamous cell carcinoma. <i>Int J Cancer.</i> 2020;147(10):2879-2890<br>
 
 ## Repository
-* TrustVDJ: A toolkit for prepare and analyze immune repertoire data.
+- TrustVDJ: A toolkit for prepare and analyze immune repertoire data.
 
 ## OCRID
 - https://orcid.org/0000-0002-3211-3726<br>
