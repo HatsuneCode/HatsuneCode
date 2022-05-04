@@ -8,7 +8,7 @@
 
 - TrustVDJ: A toolkit for prepare and analyze immune repertoire data.
 
-## Online platform
+## Online Platform
 
 - MKCell: http://hpvgroup.imwork.net/MKCell
 
