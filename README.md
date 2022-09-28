@@ -1,7 +1,7 @@
 # Hatsune Code Landscape
 
-- 👋 Hi, I’m Lianhao Song - only a hatsune miku fans.
-- ✨ I’m interested in bioinformatics software development.
+- 👋 Hi, I’m Lianhao Song.
+- ✨ I’m interested in bioinformatics.
 - 📫 Email: hatsunecode@gmail.com
 
 ## Repository
