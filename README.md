@@ -1,7 +1,7 @@
 # Hatsune Code Landscape
 
 - 👋 Hi, I’m Lianhao Song.
-- ✨ I’m interested in bioinformatics.
+- ✨ I’m interested in circRNA mechanism, synthesis and its corresponding innate immune response.
 - 📫 Email: hatsunecode@gmail.com
 
 ## Repository
