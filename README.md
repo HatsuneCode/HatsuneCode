@@ -7,8 +7,8 @@
 
 ## Repository
 
-- TrustVDJ: A toolkit for prepare and analyze immune repertoire data.
-- Pipeline: Common used pipeline.
+- TrustVDJ: A toolkit for prepare and analyze immune repertoire data (CRAN).
+- Pipeline: Common used pipeline (Shared).
 
 ## Researcher ID
 
