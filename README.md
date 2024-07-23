@@ -1,8 +1,6 @@
 # Hatsune Code Landscape
 
 - 👋 Hi, I’m Lianhao Song. Welcome to the Hatsune bioinformatics community.
-- ✨ I’m interested in the shared mechanisms underlying pathological proteins in neurodegenerative diseases.
-- ✨ However, due to certain factors, I am currently researching cosmeceuticals.
 - 📫 Email: hatsunecode@gmail.com
 
 ## Repository
