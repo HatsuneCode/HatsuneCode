@@ -8,7 +8,7 @@
 - TrustVDJ: A toolkit for prepare and analyze immune repertoire data (CRAN).
 - Pipeline: Common used pipeline (Shared).
 - SCAP-system: Development and Comprehensive Evaluation of Synthetic Scarless Circular RNAs.
-- mRNA-Col3 The Therapeutic Potential of mRNA-Mediated Type III Collagen Delivery for Photoaged Skin.
+- mRNA-Col3: The Therapeutic Potential of mRNA-Mediated Type III Collagen Delivery for Photoaged Skin.
 
 ## Researcher ID
 
