@@ -6,8 +6,8 @@
 ## Repository
 
 - TrustVDJ: A toolkit for prepare and analyze immune repertoire data (CRAN).
-- Pipeline: Common used pipeline (Shared).
-- SCAP-system: Development and Comprehensive Evaluation of Synthetic Scarless Circular RNAs.
+- Pipeline: Common used pipeline (shared).
+- SCAP-system: Development and Comprehensive Evaluation of Synthetic Scarless Circular RNAs (published).
 - mRNA-Col3: The Therapeutic Potential of mRNA-Mediated Type III Collagen Delivery for Photoaged Skin.
 - PublicNDD: Analysis of open-source sequencing data for neurodegenerative diseases.
 
