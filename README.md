@@ -9,7 +9,7 @@
 - Pipeline: Common used pipeline (shared).
 - SCAP-system: Development and Comprehensive Evaluation of Synthetic Scarless Circular RNAs (published).
 - mRNA-Col3: The Therapeutic Potential of mRNA-Mediated Type III Collagen Delivery for Photoaged Skin.
-- PublicNDD: Analysis of open-source sequencing data for neurodegenerative diseases.
+- PublicNDD: Analysis of open-source sequencing data for neurodegenerative diseases (private).
 
 ## Researcher ID
 
